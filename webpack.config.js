@@ -11,7 +11,6 @@ var config = {
         filename: "bundle.js",
         publicPath: "/app/"
     },
-    'react-dom': 'ReactDOM',
     devtool: 'inline-source-map',
     module: {
         rules: [
